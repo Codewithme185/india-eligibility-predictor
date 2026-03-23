@@ -52,7 +52,7 @@ model.fit(X_scaled, y)
 # STREAMLIT UI
 # -----------------------------
 
-st.title("🇮🇳 Government Scheme Eligibility Predictor")
+st.title("MACHINE LEARNING MODEL FOR PUBLIC BENEFIT ELIGIBILITY DETECTION")
 
 st.write("Fill the details below:")
 
